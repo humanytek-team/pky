@@ -10,3 +10,6 @@
 [submodule "purchase_product_cost_currency"]
 	path = purchase_product_cost_currency
 	url = https://github.com/humanytek-team/purchase_product_cost_currency
+[submodule "product_price_visible_for_sale_purchase_users"]
+	path = product_price_visible_for_sale_purchase_users
+	url = https://github.com/humanytek-team/product_price_visible_for_sale_purchase_users
