@@ -1,0 +1,3 @@
+[submodule "sale_order_line_no_currency_exchange"]
+	path = sale_order_line_no_currency_exchange
+	url = https://github.com/humanytek-team/sale_order_line_no_currency_exchange
