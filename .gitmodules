@@ -7,3 +7,6 @@
 [submodule "pky_sale_quotation_generator"]
 	path = pky_sale_quotation_generator
 	url = https://github.com/humanytek-team/pky_sale_quotation_generator
+[submodule "purchase_product_cost_currency"]
+	path = purchase_product_cost_currency
+	url = https://github.com/humanytek-team/purchase_product_cost_currency
