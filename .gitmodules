@@ -16,3 +16,6 @@
 [submodule "pky_pvc_sale_prices_generator"]
 	path = pky_pvc_sale_prices_generator
 	url = https://github.com/humanytek-team/pky_pvc_sale_prices_generator
+[submodule "project_task_units_done"]
+	path = project_task_units_done
+	url = https://github.com/humanytek-team/project_task_units_done
