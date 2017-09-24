@@ -13,3 +13,6 @@
 [submodule "product_price_visible_for_sale_purchase_users"]
 	path = product_price_visible_for_sale_purchase_users
 	url = https://github.com/humanytek-team/product_price_visible_for_sale_purchase_users
+[submodule "pky_pvc_sale_prices_generator"]
+	path = pky_pvc_sale_prices_generator
+	url = https://github.com/humanytek-team/pky_pvc_sale_prices_generator
